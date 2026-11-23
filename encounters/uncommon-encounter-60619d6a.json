@@ -2,5 +2,6 @@
   "icon": "minecraft:adventure_crystal_uncommon",
   "rarity": "UNCOMMON",
   "encounterBuildplateId": "60619d6a-5168-d71f-f20b-c366c93c7f04",
-  "duration": 1200
+  "duration": 1200,
+  "spawnWeight": 50
 }

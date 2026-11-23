@@ -2,5 +2,6 @@
   "icon": "minecraft:adventure_crystal_legendary",
   "rarity": "LEGENDARY",
   "encounterBuildplateId": "2ef467d0-24d7-6b2b-3ae1-489962cc74fa",
-  "duration": 3600
+  "duration": 3600,
+  "spawnWeight": 6
 }
